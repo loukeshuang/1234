@@ -101,3 +101,8 @@ bazel test //:tinyalsa_tests --test_output=all \
 bazel coverage //:tinyalsa_tests --combined_report=lcov --test_output=all
 genhtml bazel-out/_coverage/_coverage_report.dat -o tinyalsa_tests_coverage
 ```
+
+
+#####Test String#####
+
+
