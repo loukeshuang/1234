@@ -66,4 +66,4 @@ install: libtinyalsa.a libtinyalsa.so.$(LIBVERSION_MAJOR)
 	install libtinyalsa.so.$(LIBVERSION) $(DESTDIR)$(LIBDIR)/
 	ln -sf libtinyalsa.so.$(LIBVERSION) $(DESTDIR)$(LIBDIR)/libtinyalsa.so.$(LIBVERSION_MAJOR)
 	ln -sf libtinyalsa.so.$(LIBVERSION_MAJOR) $(DESTDIR)$(LIBDIR)/libtinyalsa.so
-
+##test
