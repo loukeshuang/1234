@@ -1,5 +1,3 @@
-## Test in Master Branch##
-
 TinyALSA
 ========
 
